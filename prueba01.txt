@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 02/07/2015
 Ingenieria de software
 presentacion github
@@ -14,3 +15,6 @@ Explora el Repositorio:
 http://WIN-GGC1PAUDEPQ.localdomain:18080/viewvc/ 
 
 https://tortoisesvn.googlecode.com/svn/trunk
+=======
+02/07/2015
+>>>>>>> parent of c64104b... 02-se agrega ramo y tipo trabajo

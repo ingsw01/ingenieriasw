@@ -1,3 +1,16 @@
 02/07/2015
 Ingenieria de software
 presentacion github
+
+Servidor: 
+
+WIN-GGC1PAUDEPQ.localdomain
+
+URL del Repositorio:
+http://WIN-GGC1PAUDEPQ.localdomain:18080/svn/ 
+http://127.0.0.1:18080/svn/
+
+Explora el Repositorio:
+http://WIN-GGC1PAUDEPQ.localdomain:18080/viewvc/ 
+
+https://tortoisesvn.googlecode.com/svn/trunk
